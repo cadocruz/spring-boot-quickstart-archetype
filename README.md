@@ -25,7 +25,7 @@ Create a new empty directory for your project and navigate into it.
     mvn archetype:generate \
         -DarchetypeGroupId=br.com.cadocruz.spring-boot-archetypes \
         -DarchetypeArtifactId=spring-boot-quickstart \
-        -DarchetypeVersion=1.0.0-RELEASE \
+        -DarchetypeVersion=1.0.1-RELEASE \
         -DgroupId=my.groupid \
         -DartifactId=my-artifactId \
         -Dversion=my-version
