@@ -1,4 +1,4 @@
-Spring Boot 1.3.4.RELEASE Quickstart Maven Archetype
+Spring Boot 1.3.5.RELEASE Quickstart Maven Archetype
 =========================================
 
 Summary
