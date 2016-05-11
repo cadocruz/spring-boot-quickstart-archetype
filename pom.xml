@@ -6,7 +6,7 @@
 	<version>1.0.1-RELEASE</version>
     <packaging>maven-archetype</packaging>
 	<name>Spring Boot Maven Archetype: Quickstart</name>
-    <description>Archetype for creating Spring Boot 1.3.4.RELEASE</description>
+    <description>Archetype for creating Spring Boot application</description>
 	<url>https://github.com/cadocruz/spring-boot-quickstart-archetype</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
