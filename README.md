@@ -3,7 +3,7 @@ Spring Boot 1.3.5.RELEASE Quickstart Maven Archetype
 
 Summary
 -------
-The project is a Maven archetype for Spring Boot 1.3.4.RELEASE application.
+The project is a Maven archetype for Spring Boot application.
 
 Installation
 ------------
