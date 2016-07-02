@@ -7,7 +7,7 @@ The project is a Maven archetype for Spring Boot application.
 
 * Java 8
 * Spring Boot 1.3.5.RELEASE
-* Brixton.RELEASE
+* Brixton.SR1
 
 
 Installation
@@ -30,7 +30,7 @@ Create a new empty directory for your project and navigate into it.
     mvn archetype:generate \
         -DarchetypeGroupId=br.com.cadocruz.spring-boot-archetypes \
         -DarchetypeArtifactId=spring-boot-quickstart \
-        -DarchetypeVersion=1.0.2-RELEASE \
+        -DarchetypeVersion=1.0.3-RELEASE \
         -DgroupId=my.groupid \
         -DartifactId=my-artifactId \
         -Dversion=my-version

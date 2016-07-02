@@ -4,7 +4,7 @@
 
 	<groupId>br.com.cadocruz.spring-boot-archetypes</groupId>
 	<artifactId>spring-boot-quickstart</artifactId>
-	<version>1.0.2-RELEASE</version>
+	<version>1.0.3-RELEASE</version>
 	<packaging>maven-archetype</packaging>
 	<name>Spring Boot Maven Archetype: Quickstart</name>
 	<description>Archetype for creating Spring Boot application</description>
