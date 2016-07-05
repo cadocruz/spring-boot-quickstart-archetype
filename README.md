@@ -1,4 +1,4 @@
-Spring Boot 1.3.5.RELEASE Quickstart Maven Archetype
+Spring Boot 1.3.6.RELEASE Quickstart Maven Archetype
 =========================================
 
 Summary
@@ -6,8 +6,8 @@ Summary
 The project is a Maven archetype for Spring Boot application.
 
 * Java 8
-* Spring Boot 1.3.5.RELEASE
-* Brixton.SR1
+* Spring Boot 1.3.6.RELEASE
+* Brixton.SR2
 
 
 Installation
@@ -30,7 +30,7 @@ Create a new empty directory for your project and navigate into it.
     mvn archetype:generate \
         -DarchetypeGroupId=br.com.cadocruz.spring-boot-archetypes \
         -DarchetypeArtifactId=spring-boot-quickstart \
-        -DarchetypeVersion=1.0.3-RELEASE \
+        -DarchetypeVersion=1.0.4-RELEASE \
         -DgroupId=my.groupid \
         -DartifactId=my-artifactId \
         -Dversion=my-version
